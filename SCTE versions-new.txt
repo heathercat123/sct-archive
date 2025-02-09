@@ -40,7 +40,7 @@ LM	v2.0 Beta 20: WIP Inventory: https://scratch.mit.edu/projects/982182652/					
 LM	v2.0 Beta 21: Even More Optimisations And Bugfixes: https://scratch.mit.edu/projects/983995123/ // What were those optimisations and bugfixes?
 LM	v2.0 Beta 22: Minus Red Half Screen Of Death: https://scratch.mit.edu/projects/985851208/		// Fixed a bug with the level start or end anim, where could get stuck or smth (what was it? what caused it?)
 LM	v2.0 Beta 23: An Extra Hit: https://scratch.mit.edu/projects/985867748/							// There was a time where it was insta-death
-	v2.0 Beta 24: Olli/Amy Hit Sprites: https://scratch.mit.edu/projects/985941646/					// Thanks MLG. Pretty sure I asked her to make those sprites.
+	v2.0 Beta 24: Olli/Amy Hit Sprites: https://scratch.mit.edu/projects/985941646/					// Thanks MLG. I specifically asked her to make those sprites, and she did.
 LM	v2.0 Beta 25-1: Hats: https://scratch.mit.edu/projects/988224828/								// Made the inventory useful
 	v2.0 Beta 25-2: Updated Running: https://scratch.mit.edu/projects/988548199/					// Me and MWXT were kinda just both making an update at the same time...
 	v2.0 Beta 26: BD's Level / Art: https://scratch.mit.edu/projects/988821456/						// Thanks MWXT. Also doesn't include BD's level
