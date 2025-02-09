@@ -1,0 +1,57 @@
+TODO: Recover dates from bare remix tree (/projects/670082084/remixtree/bare/)
+TODO: Find some changes between versions from remixes' descriptions
+
+Remix tree bare json for 1.6 before re-share: "876868718": {"username": "MARIOWXT", "moderation_status": "notreviewed", "ctime": {"$date": 1690143382297}, "title": "Buggy Super Cat Tales Engine V1.6", "datetime_created": {"$date": 1690141864000}, "love_count": 3, "parent_id": "861678790", "visibility": "visible", "mtime": {"$date": 1703447429027}, "datetime_shared": {"$date": 1690143382000}, "children": ["877143762", "883252400"], "favorite_count": 3, "is_published": false}
+
+LM = Lost Media
+
+Pre-2.0
+
+LM	v0.1: https://scratch.mit.edu/projects/746931850/												// Buggy mess, wall climbing animation didn't exist, skid animation didn't exist, wall climbing was more like levitating (no wall jump), can't remember the rest
+LM	v1.0: https://scratch.mit.edu/projects/742150906												// First stable version. An unreleased widescreen patch of it is available.
+LM	Scratch Cat Tales Engine (v1.1) : https://scratch.mit.edu/projects/859621247/					// Added Brutus. A remix of it is available.
+LM	v1.5: https://scratch.mit.edu/projects/861678790/												// Buggy mess again, updated jumping
+	v1.6: https://scratch.mit.edu/projects/876868718/												// Thanks MWXT! Got unshared a while ago, re-shared on Feb 09, 2025 after I (@Heathercat123) found the link in the bare remix tree. A remix of it is available.
+LM	v1.7: https://scratch.mit.edu/projects/877143762/												// Changes are unknown. Two remixes of it are available.
+
+
+v2.0 Betas
+
+LM	v2.0 Beta 1: Preview: https://scratch.mit.edu/projects/888014454/								// Introduced a lot of the changes in 2.0, such as a title screen and fixed jumping
+LM	v2.0 Beta 2: Map Test Build: https://scratch.mit.edu/projects/888606571/						// World Map!
+LM	v2.0 Beta 3: Pause Build: https://scratch.mit.edu/projects/888810987/							// Adds the pause button
+LM	v2.0 Beta 4: Bells: https://scratch.mit.edu/projects/889218238/									// Adds bells
+LM	v2.0 Beta 5: Better Pause/Bells/Reset: https://scratch.mit.edu/projects/891252924/				// Improves bugs involving the pause menu, bells and resetting the level
+LM	v2.0 Beta 6: OPTIMISED but beta: https://scratch.mit.edu/projects/894109943						// What did it optimise?
+LM	v2.0 Beta 7: Bugfixes + More Optimisations: https://scratch.mit.edu/projects/903062867/			// The most popular ScratchCTE version made by me. One remix, three sub-remixes and one sub-sub-remix are available.
+LM	v2.0 Beta 8: Ropes + More Bugfixes: https://scratch.mit.edu/projects/966898750/					// Added ropes, came out ~3 months after the last one
+LM	v2.0 Beta 9: HD Brutus + More bugfixes: https://scratch.mit.edu/projects/967742862/				// Added the SVG Brutus sprites
+LM	v2.0 Beta 10: Signs: https://scratch.mit.edu/projects/967782438/								// Added signs
+LM	v2.0 Beta 11: Water: https://scratch.mit.edu/projects/971412560/								// Added water
+	v2.0 Beta 12: Art / ' 'enemies' ': https://scratch.mit.edu/projects/971434339/					// Thanks MWXT
+LM	v2.0 Beta 13: Minor Updates: https://scratch.mit.edu/projects/971646908/						// What were those updates? A remix of it is available.
+LM	v2.0 Beta 14: WIP Shinji And QOL Changes: https://scratch.mit.edu/projects/976154923/			// Added Shinji, what were those QOL changes?
+LM	v2.0 Beta 15: Kuro & Amy: https://scratch.mit.edu/projects/978009092/							// Adds Kuro and Amy
+LM	v2.0 Beta 16: Strong Currents: https://scratch.mit.edu/projects/979230901/						// Adds strong currents for Shinji. The animation looks bad.
+LM	v2.0 Beta 17: Olli And Start/End Anim: https://scratch.mit.edu/projects/979440511/				// Adds Olli and the red level start/end anim
+LM	v2.0 Beta 18: Map Scroll: https://scratch.mit.edu/projects/979626573/							// Enlarges the world map and allows you to scroll it
+LM	v2.0 Beta 19: Small Improvements: https://scratch.mit.edu/projects/980681393/					// What were those small improvements?
+LM	v2.0 Beta 20: WIP Inventory: https://scratch.mit.edu/projects/982182652/						// It really was WIP (why? what were its issues?)
+LM	v2.0 Beta 21: Even More Optimisations And Bugfixes: https://scratch.mit.edu/projects/983995123/ // What were those optimisations and bugfixes?
+LM	v2.0 Beta 22: Minus Red Half Screen Of Death: https://scratch.mit.edu/projects/985851208/		// Fixed a bug with the level start or end anim, where could get stuck or smth (what was it? what caused it?)
+LM	v2.0 Beta 23: An Extra Hit: https://scratch.mit.edu/projects/985867748/							// There was a time where it was insta-death
+	v2.0 Beta 24: Olli/Amy Hit Sprites: https://scratch.mit.edu/projects/985941646/					// Thanks MLG. Pretty sure I asked her to make those sprites.
+LM	v2.0 Beta 25-1: Hats: https://scratch.mit.edu/projects/988224828/								// Made the inventory useful
+	v2.0 Beta 25-2: Updated Running: https://scratch.mit.edu/projects/988548199/					// Me and MWXT were kinda just both making an update at the same time...
+	v2.0 Beta 26: BD's Level / Art: https://scratch.mit.edu/projects/988821456/						// Thanks MWXT. Also doesn't include BD's level
+LM	v2.0 Beta 27: Ropey Underway: https://scratch.mit.edu/projects/991682202/						// "If MWXT aint doin' it, then i will" - Heathercat123 (was ropey underway the only change?)
+	v2.0 Beta 28: Turnip Sprites https://scratch.mit.edu/projects/993449797/						// Thanks MLG
+LM	v2.0 Beta 29: Widescreen: https://scratch.mit.edu/projects/1005319837/							// Added support for 640x480 stage
+LM	v2.0 Beta 30: Visual Improvements: https://scratch.mit.edu/projects/1011842060/					// Animations go brrrr (what were those animations?)
+LM	v2.0 Beta 31: Better Title Screen: https://scratch.mit.edu/projects/1014008235/					// Update dedicated to blurring a background and adding shadows onto it. Two remixes of it are available.
+LM	v2.0 Beta 32: Better Art: https://scratch.mit.edu/projects/1048962509/							// Update dedicated to making art better. Shared early because of alt getting banned. It also added credits for the Scratch Cat Tales collab on the thumbnail, along with the text "I didn't find a way to iconify them"
+
+
+6/38 are still available.
+A few can be re-created.
+Remixes of some are available.
