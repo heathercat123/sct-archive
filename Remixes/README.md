@@ -1,6 +1,6 @@
 # Remixes
 These are remixes of Scratch Cat Tales engines versions made by a few Scratchers.
-Note that Scratch Cat Tales itself is a remix of [670082084](https://scratch.mit.edu/projects/670082084) by @villeolof, which is itself based on @griffpatch's Tile Scrolling tutorials.
+Note that Scratch Cat Tales itself is a remix of [Tile Scrolling | ep20 | Star Power](https://scratch.mit.edu/projects/670082084) by [villeolof](https://scratch.mit.edu/users/villeolof/), which is itself based on [griffpatch](https://scratch.mit.edu/users/griffpatch)'s Tile Scrolling tutorials.
 
 File names for 1.x: VERSION - CREATOR - PROJECT ID - PROJECT NAME
 File names for 2.0: VERSION b BETA NUMBER - CREATOR - PROJECT ID - PROJECT NAME
