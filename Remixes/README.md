@@ -5,7 +5,7 @@ Note that Scratch Cat Tales itself is a remix of [670082084](https://scratch.mit
 File names for 1.x: VERSION - CREATOR - PROJECT ID - PROJECT NAME
 File names for 2.0: VERSION b BETA NUMBER - CREATOR - PROJECT ID - PROJECT NAME
 
-To find more: [use the remix tree](https://scratch.mit.edu/projects/670082084/remixtree/)
+To find more (if there are more): [use the remix tree](https://scratch.mit.edu/projects/670082084/remixtree/)
 If it doesn't work: [use the bare remix tree](https://scratch.mit.edu/projects/670082084/remixtree/bare/)
 
 Forked off v1.1:

@@ -1,2 +1,2 @@
 # Originals
-Unmodified betas made for the Scratch Cat Tales collab
+Unmodified versions made for the Scratch Cat Tales collab
