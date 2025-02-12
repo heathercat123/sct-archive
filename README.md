@@ -10,6 +10,7 @@ This is an archive containing multiple versions of 'Scratch Cat Tales Engine', i
 - [SCTE versions-new.txt](https://github.com/heathercat123/sct-archive/blob/master/SCTE%20versions-new.txt): An updated version of <SCTE versions.txt> made for archiving Scratch Cat Tales.
 - [things i need to change for scratch cat tales.rtf](https://github.com/heathercat123/sct-archive/blob/master/things%20i%20need%20to%20change%20for%20scratch%20cat%20tales.rtf): An old todo list, writen as a Rich Text Document in Windows WordPad, using the SYSTEM font.
 - [heathercat activity.html](https://github.com/heathercat123/sct-archive/blob/master/heathercat%20activity.html): An archived version of [my scratch activity](https://scratch.mit.edu/messages/ajax/user-activity/?user=Heathercat123) due to activity auto-deleting after twelve months.
+- [SCTv2 Format](https://github.com/heathercat123/sct-archive/blob/master/SCTv2-format.md): Documents how the levels are encoded
 
 ## Folder listing
 - [Originals](https://github.com/heathercat123/sct-archive/blob/master/Originals/): Original betas downloaded from the [Scratch website](https://scratch.mit.edu)
