@@ -6,7 +6,7 @@ About a year later, @juliangamer524 started a collab.
 It was about making a Super Cat Tales fan game.
 I was invited.
 
-I then took back that old engine and shared 0.1 .
+I then took back that old engine and shared it as 0.1 .
 A few minutes later, I updated it to 1.0, which fixed many glitches, including the one that originally caused me to abandon the engine.
 For the next updates, I remixed the old one and updated it.
 
