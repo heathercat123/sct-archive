@@ -1,6 +1,6 @@
 It all started in 2022, when I tried to recreate Super Cat Tales 2.
-I decided to base this off @griffpatch's Tile Scrolling tutorials as it was rock solid and Super Cat Tales 2 used tiles.
-Due to a major glitch that I couldn't fix, I abandoned the project, leaving the project at a very early glitchy state.
+I decided to base this off @griffpatch's Tile Scrolling tutorials as it was rock solid and Super Cat Tales 2 used tiles too.
+Due to a major glitch that I couldn't fix, I abandoned the project, leaving it in a very early glitchy state.
 
 About a year later, @juliangamer524 started a collab.
 It was about making a Super Cat Tales fan game.
