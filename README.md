@@ -9,8 +9,10 @@ This is an archive containing multiple versions of 'Scratch Cat Tales Engine', i
 - [SCTE versions.txt](https://github.com/heathercat123/sct-archive/blob/master/SCTE%20versions.txt): An old text file from 2024 made to track every Scratch Cat Tales engine beta.
 - [SCTE versions-new.txt](https://github.com/heathercat123/sct-archive/blob/master/SCTE%20versions-new.txt): An updated version of <SCTE versions.txt> made for archiving Scratch Cat Tales.
 - [things i need to change for scratch cat tales.rtf](https://github.com/heathercat123/sct-archive/blob/master/things%20i%20need%20to%20change%20for%20scratch%20cat%20tales.rtf): An old todo list, writen as a Rich Text Document in Windows WordPad, using the SYSTEM font.
+- [TODO.md](https://github.com/heathercat123/sct-archive/blob/master/TODO.md): A newer version of things i need to change for scratch cat tales.rtf, made for this repository.
 - [heathercat activity.html](https://github.com/heathercat123/sct-archive/blob/master/heathercat%20activity.html): An archived version of [my scratch activity](https://scratch.mit.edu/messages/ajax/user-activity/?user=Heathercat123) due to activity auto-deleting after twelve months.
-- [SCTv2 Format](https://github.com/heathercat123/sct-archive/blob/master/SCTv2-format.md): Documents how the levels are encoded
+- [SCTv2 Format.txt](https://github.com/heathercat123/sct-archive/blob/master/SCTv2-format.md): Documents how the levels are encoded
+- [Backstory.txt](https://github.com/heathercat123/sct-archive/blob/master/Backstory.txt): An updated version of the backstory featured in the game's credits.
 
 ## Folder listing
 - [Originals](https://github.com/heathercat123/sct-archive/blob/master/Originals/): Original betas downloaded from the [Scratch website](https://scratch.mit.edu)

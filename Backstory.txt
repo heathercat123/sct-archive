@@ -1,0 +1,55 @@
+It all started in 2022, when I tried to recreate Super Cat Tales 2.
+I decided to base this off @griffpatch's Tile Scrolling tutorials as it was rock solid and Super Cat Tales 2 used tiles.
+Due to a major glitch that I couldn't fix, I abandoned the project, leaving the project at a very early glitchy state.
+
+About a year later, @juliangamer524 started a collab.
+It was about making a Super Cat Tales fan game.
+I was invited.
+
+I then took back that old engine and shared 0.1 .
+A few minutes later, I updated it to 1.0, which fixed many glitches, including the one that originally caused me to abandon the engine.
+For the next updates, I remixed the old one and updated it.
+
+Later, I released a preview of version 2.0 of the engine.
+It fixed a bug related to jumping, added a title screen, the Neutronized (or actually Heathercat123) logo, improved mobile controls and added support for having more than one music.
+
+I updated it and introduced a world map and vector sprites.
+Then I added a world map.
+Then a pause menu.
+Then bells.
+Then ropes.
+Then signs.
+Then water.
+
+After that, we had the 'week of cats', where six new cats were added in a single week.
+@DaMLGGGCAT and @MARIOWXT did the graphics (except for in the cat menu), whereas I did the code and the cat menu graphics.
+I also did most of the portraits.
+
+After this week, I went back to adding new features.
+I made the world map scrollable, added the inventory from PAWS, added the two hits before game over mechanism, added an hat in honor of @MARIOWXT, added widescreen support and revised many graphics.
+
+But then, in 2024, I got banned from Scratch.
+The account I used for creating Scratch Cat Tales versions got deleted, along with my projects.
+We lost the four latest betas, along with 28 others.
+The original engine from 2022 became lost media.
+Everyone lost hope in Scratch Cat Tales.
+Everyone but @DaMLGGGCAT.
+Even though they didn't make any new beta until 2025.
+I also began the 'Scratch Cat Tales Archive' project, but didn't complete it until 2025.
+
+We are now in 2025.
+I went back to the archival project and examined the remix tree for the project Scratch Cat Tales is based on.
+Of course, the normal remix tree would've been hell to work with, so I examined the JSON used by the remix tree.
+I managed to find a few remixes.
+Those remixes included two for not the latest beta, but the one right before.
+One of them was by me and was an extremely slimmed down version of the game.
+It's impossible to recover it into stock Scratch Cat Tales.
+However, the other remix, by @Jacy_May_Maggel, looked more promising.
+I then started recovering it.
+
+After what I believe to be a few hours, I finished recovering it.
+After all those months, we finally had a recent version of Scratch Cat Tales.
+I shared it to the world, and @DaMLGGGCAT updated it!
+It seems like they were really looking forwards for this collab!
+
+- Heathercat123
