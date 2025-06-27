@@ -1,3 +1,6 @@
+# Migrated
+This repository has been migrated to [Codeberg](https://codeberg.org/heathercat123/sct-archive) and as such will be archived on Github.
+
 # sct-archive
 This is an archive containing multiple versions of 'Scratch Cat Tales Engine', including remixes, restorations, unreleased versions, thumbnails and a list of versions.
 
